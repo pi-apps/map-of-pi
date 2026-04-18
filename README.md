@@ -67,8 +67,9 @@ The Map of Pi Front End is a [Next.js](https://nextjs.org/) project bootstrapped
 - Philip Jennings
 
 ### Marketing
-- Bonnie Ford
-- Joseph Ciccone 
+- Joseph Ciccone
+- Mohamed El-Shoshani
+- Andri Nael 
 
 ### Solution Design / UX
 - Femma Ashraf
@@ -85,10 +86,10 @@ The Map of Pi Front End is a [Next.js](https://nextjs.org/) project bootstrapped
 ### Application Developers
 - Darin Hajou
 - Rokundo Soleil
-- Ayomikun Omotosho
 - Yusuf Adisa
 - Francis Mwaura
-- Samuel Oluyomi
+- Godswill Sam
+- Rajasekhar Reddy
 
 ## <a name='contributions'></a>Contributions
 
