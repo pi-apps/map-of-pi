@@ -1,0 +1,402 @@
+{
+  "HOME": {
+    "ADD_SELLER": "Tɔn",
+    "SEARCH_CENTER_DEFAULT_MESSAGE": "Wo Hwehwɛ Fie no wɔ default nhyehyɛe [0, 0] so. Sɛ wopɛ sɛ wunya ɔsom pa, mesrɛ, sesa w’ Hwehwɛ Fie beaeɛ.",
+    "SEARCH_BAR_PLACEHOLDER": "Hwehwɛ atɔnfoɔ anaa adeɛ",
+    "NEW_NOTIFICATIONS_MESSAGE": "Wowɔ nsɛm foforɔ",
+    "LOCATION_SERVICES": {
+      "ENABLE_LOCATION_SERVICES_MESSAGE": "Sɛ wopɛ sɛ wode saa nsɛm yi di dwuma a, bue wo location service wɔ wo fon no nhyehyɛe mu.",
+      "DISABLED_LOCATION_SERVICES_MESSAGE": "Location service no abɔ mu. Mesrɛ, bue wo fon location nhyehyɛe."
+    },
+    "AUTHENTICATION": {
+      "SUCCESSFUL_LOGIN_MESSAGE": "Wo akɔmu yɛɛ yiye",
+      "UNSUCCESSFUL_LOGIN_MESSAGE": "Akɔmu no antumi anyɛ yiye",
+      "PI_INFORMATION_NOT_FOUND_MESSAGE": "Pi nsɛm no anhu"
+    }
+  },
+  "SIDE_NAVIGATION": {
+    "VIEW_ORDERS_LABEL": "Hwɛ nkɔmhyɛ",
+    "USER_PREFERENCES_HEADER": "Abapɔw a ɛfa ɔdefo ho",
+    "PERSONALIZATION_SUBHEADER": "Nwoma a ɛbɛyɛ wo dea",
+    "LANGUAGES": "Kasa",
+    "ABOUT": {
+      "ABOUT_MAP_OF_PI": "Fa ho nsɛm – Map of Pi",
+      "APP_VERSION": "App Version",
+      "PRIVACY_POLICY": "Nkwankyerɛ ho Ahintasɛm",
+      "TERMS_OF_SERVICE": "Asɛm a ɛfa dwumadi ho"
+    },
+    "WALLET_ADDRESS_LABEL": "Pi Sika Kotokɔ Adiresɛ",
+    "WALLET_ADDRESS_PLACEHOLDER": "Kyerɛw wo Pi sika kotokɔ adiresɛ no",
+    "FIND_ME_PREFERENCE_LABEL": "FindMe Abapɔw",
+    "FIND_ME_OPTIONS": {
+      "PREFERRED_AUTO": "Nwoma so",
+      "PREFERRED_DEVICE_GPS": "Fa me fon GPS di dwuma",
+      "PREFERRED_SEARCH_CENTER": "Fa Hwehwɛ Fie di dwuma"
+    },
+    "SEARCH_FILTERS_SUBHEADER": "Hwehwɛ ntotoho",
+    "SEARCH_FILTERS": {
+      "INCLUDE_ACTIVE_SELLERS": "Atɔnfo a wɔyɛ adwuma",
+      "INCLUDE_INACTIVE_SELLERS": "Atɔnfo a wogyae adwuma",
+      "INCLUDE_TEST_SELLERS": "Atɔnfo a wɔregyina nsɔhwɛ mu",
+      "INCLUDE_HOLIDAY_SELLERS": "Afehyia Atɔnfo"
+    },
+    "CONTACT_MAP_OF_PI": "Kasa kyerɛ Map of Pi",
+    "VALIDATION": {
+      "SUCCESSFUL_PREFERENCES_SUBMISSION": "Abapɔw no akɔ so yiye",
+      "UNSUCCESSFUL_PREFERENCES_SUBMISSION": "Mfomso bi sii bere a wɔrekyerɛw abapɔw no"
+    }
+  },
+  "SCREEN": {
+    "MEMBERSHIP": {
+      "MEMBERSHIP_HEADER": "Abɔdeɛ mu",
+      "CURRENT_MEMBERSHIP_CLASS_LABEL": "Seisei abɔdeɛ mu akyɛdeɛ",
+      "CURRENT_MEMBERSHIP_END_DATE_LABEL": "Seisei abɔdeɛ mu awieeɛ da",
+      "CURRENT_MEMBERSHIP_END_DATE_NO_ACTIVE_MEMBERSHIP": "Ɔyɛfoɔ nni hɔ",
+      "MAPPI_ALLOWANCE_REMAINING_LABEL": "Mappi a aka no",
+      "PICK_MEMBERSHIP_MAPPI_TO_BUY_LABEL": "Paw abɔdeɛ mu anaa Mappi a wopɛ sɛ wotɔ",
+      "PICK_MEMBERSHIP_DURATION_IN_WEEKS_LABEL": "abɔntenkɔmu ({duration} nna nsia)",
+      "PICK_BUY_METHOD_LABEL": "Paw sɔ adeɛ kwan",
+      "PURCHASE_OPTIONS": {
+        "PAY_WITH_PI": "Tua π so",
+        "WATCH_ADS": "Hwɛ ads (free)",
+        "USE_VOUCHER": "Fa voucher code (free)"
+      },
+      "ENTER_VOUCHER_CODE_PLACEHOLDER": "Bɔ voucher code",
+      "VALIDATION": {
+        "SUCCESSFUL_MEMBERSHIP_ACTIVATION_MESSAGE": "Membɛship no ayɛ active yie",
+        "FAILED_LOAD_MEMBERSHIP_MESSAGE": "Ɛyɛɛ mfomso wɔ membɛship data no so",
+        "FAILED_MEMBERSHIP_PAYMENT_MESSAGE": "Membɛship ka no wɔ mfomso",
+        "USER_NOT_LOGGED_IN_PAYMENT_MESSAGE": "Ɛsɛ sɛ ɔdehye no hyɛ mu ansa na ɔtumi yɛ sika so ka"
+      }
+    },
+    "SELLER_REGISTRATION": {
+      "SELLER_REGISTRATION_HEADER": "Atɔnfoɔ Din Kɔm",
+      "SELLER_RESTRICTION_MESSAGE": "Wo Sell Center no wɔ ɔman a Pi Network akyiw no mu, enti w’afidie a ɛda mapa so no bɛkata afi nnipa nyinaa ani so",
+      "SELLER_DETAILS_LABEL": "Atɔnfoɔ Nsɛm",
+      "EMAIL_LABEL": "Email adresɛ",
+      "PHONE_NUMBER_LABEL": "Fon nɔma",
+      "CONTACT_PUBLIC_NOTE": "Email ne fon nɔma bɛda ho ma obiara ahu.",
+      "SELLER_DETAILS_PLACEHOLDER": "Meto adeɛ de Pi na ɛtua ka.",
+      "REVIEWS_SUMMARY_LABEL": "Nsɛm a wɔka fa ho mu nhyehyɛe",
+      "REVIEWS_SCORE_LABEL": "Nsɛm a wɔka fa ho nsusuiɛ",
+      "SELLER_NAME": "Atɔnfoɔ Din",
+      "SELLER_TYPE": {
+        "SELLER_TYPE_LABEL": "Atɔnfoɔ no ho nsɛm",
+        "SELLER_TYPE_OPTIONS": {
+          "ACTIVE_SELLER": "Atɔnfoɔ a ɔyɛ adwuma",
+          "INACTIVE_SELLER": "Atɔnfoɔ a wagyae adwuma",
+          "TEST_SELLER": "Nsɔhwɛ Atɔnfoɔ",
+          "HOLIDAY_SELLER": "Afehyia Atɔnfo",
+          "RESTRICTED_SELLER": "Dwadifo a wɔakyiw no"
+        }
+      },
+      "SELLER_ADVANCED_SETTINGS_LABEL": "Atɔnfoɔ Ntotoho Kɛse",
+      "SELLER_RETAIL_OUTLET_NAME": "Dɔkotani din",
+      "SELLER_ADDRESS_LOCATION_LABEL": "Fie anaa beaeɛ a woretɔn no",
+      "SELLER_ADDRESS_LOCATION_PLACEHOLDER": "Me map marker kyerɛ beaeɛ a meyɛ adwuma no",
+      "SELLER_SETTINGS_LABEL": "Atɔnfoɔ Ntotoho",
+      "SELLER_SELL_CENTER": "Siesie beaeɛ a wopɛ sɛ wotɔn no",
+      "SELLER_ONLINE_SHOPPING_ITEMS_LIST_LABEL": "Intanɛt Tɔguare | Kyerɛw adeɛ a woretɔn",
+      "SELLER_ONLINE_SHOPPING_ORDER_FULFILLMENT_LABEL": "Intanɛt Tɔguare | Hyɛdeɛ Didi So",
+      "MAPPI_ALLOWANCE_LABEL": "Mappi kwan a aka",
+      "FULFILLMENT_METHOD_TYPE": {
+        "FULFILLMENT_METHOD_TYPE_LABEL": "Sɛnea ɔtɔfo bɛnya adeɛ no",
+        "FULFILLMENT_METHOD_TYPE_OPTIONS": {
+          "COLLECTION_BY_BUYER": "Ɔtɔfo bɛba afa adeɛ no",
+          "DELIVERED_TO_BUYER": "Wode bɛbrɛ ɔtɔfo no"
+        }
+      },
+      "SELLER_TO_BUYER_FULFILLMENT_INSTRUCTIONS_LABEL": "Dwadifo ahyɛdeɛ akyerɛtɛ buyer no",
+      "SELLER_TO_BUYER_FULFILLMENT_INSTRUCTIONS_PLACEHOLDER": "Wobetumi agye adeɛ no fi dwadifo fie. Sɛ wɔpaw sɛ wɔbɛsom no a, kyerɛ buyer no fie adiresɛ.",
+      "BUYER_TO_SELLER_FULFILLMENT_DETAILS_LABEL": "Buyer ahyɛdeɛ nsɛm a ɛsɛ sɛ dwadifo hu",
+      "VALIDATION": {
+        "EMAIL_VALIDATION": "Mesrɛ, kyerɛ email adresɛ a ɛyɛ nokware",
+        "SUCCESSFUL_REGISTRATION_SUBMISSION": "Wɔakɔm din mu yiye",
+        "FAILED_REGISTRATION_SUBMISSION": "Mfomso bi sii bere a wɔde kɔm din",
+        "REGISTRATION_FAILED_USER_NOT_AUTHENTICATED": "Kɔm din no annya nkɔso efisɛ ɔdefoɔ no nni adanseɛ",
+        "UNINITIALIZED_SELL_CENTER": "Mesrɛ, siesie beaeɛ a wopɛ sɛ wotɔn no",
+        "SUCCESSFUL_SELLER_ITEM_SAVED": "Wɔakora atɔn adeɛ no yiye",
+        "SUCCESSFUL_SELLER_ITEM_DELETED": "Wɔapepa atɔn adeɛ no yiye",
+        "FAILED_SELLER_ITEM_SAVE": "Mfomso bi sii bere a wɔde atɔn adeɛ no kɔra",
+        "FAILED_SELLER_ITEM_DELETE": "Mfomso bi sii bere a wɔde atɔn adeɛ no pepae",
+        "SELLER_ITEM_NOT_FOUND": "Wɔanhu atɔn adeɛ no",
+        "SUCCESSFUL_SAVE_MAPPI_ALLOWANCE_SUFFICIENT": "Kɔra no yɛɛ yiye. Mappi a wɔde dii dwuma yɛ {mappi_count}",
+        "FAILED_SAVE_MAPPI_ALLOWANCE_INSUFFICIENT": "Kɔra no antumi anyɛ yiye. Mappi kwan a aka no mmɔ ho"
+      },
+      "SELLER_ITEMS_FEATURE": {
+        "ITEM_LABEL": "Adeɛ",
+        "PRICE_LABEL": "Bo",
+        "STOCK_LABEL": "Stock level",
+        "DESCRIPTION_LABEL": "Nkyerɛmu",
+        "PHOTO": "Mfonini",
+        "SELLING_DURATION_LABEL": "Bere a wopɛ sɛ wotɔn mu (nnawɔtwe mu)",
+        "SELLING_STATUS_OPTIONS": {
+          "ACTIVE": "Wɔtɔn so",
+          "EXPIRED": "Asesa"
+        },
+        "STOCK_LEVEL_OPTIONS": {
+          "AVAILABLE_1": "Adeɛ baako wɔ hɔ",
+          "AVAILABLE_2": "Adeɛ mmienu wɔ hɔ",
+          "AVAILABLE_3": "Adeɛ mmiɛnsa wɔ hɔ",
+          "MANY": "Adeɛ bebree wɔ hɔ",
+          "MADE_TO_ORDER": "Yɛ no sɛ wobɛhyɛ",
+          "ONGOING_SERVICE": "Wɔreyɛ no da biara",
+          "SOLD": "Wɔatɔn no"
+        },
+        "SELLING_EXPIRATION_DATE": "Tɔn ansa na ɛsi {expired_by_date}",
+        "VALIDATION": {
+          "REDUCED_DURATION_BELOW_REMAINING_WEEKS": "Wontumi nsɔ bere no ase sen nna {remaining_weeks} a aka"
+        }
+      }
+    },
+    "SELLER_ORDER_FULFILLMENT": {
+      "ORDER_LIST_HEADER": "Hyɛdeɛ Nohoɔ",
+      "VIEW_ORDER_HEADER": "Hwɛ Hyɛdeɛ No",
+      "SELLER_ORDER_FULFILLMENT_HEADER": "Dwadifo Hyɛdeɛ Didi So",
+      "ORDER_SUBHEADER": "Hyɛdeɛ Ti",
+      "ORDERED_ITEMS_SUBHEADER": "Adea a wɔahyɛ no",
+      "ORDER_HEADER_ITEMS_FEATURE": {
+    	"SELLER_LABEL": "Dwadifo",
+    	"TOTAL_PRICE_LABEL": "Totɔ Boɔ",
+    	"TIME_OF_ORDER_LABEL": "Bere a wɔyɛɛ hyɛdeɛ no",
+    	"STATUS_LABEL": "Hyɛmu"
+      },
+      "STATUS_TYPE": {
+    	"INITIALIZED": "Ahyɛ ase",
+    	"PENDING": "Retwɛn so",
+    	"COMPLETED": "Awieeɛ",
+    	"CANCELED": "Atwa mu",
+    	"REFUNDED": "Wɔasan de sika no ama",
+    	"FULFILLED": "Wɔadi so"
+      },
+      "ORDER_COMPLETED_LABEL": "Hyɛdeɛ No Awie",
+      "ORDER_DISPATCHED_COLLECTED_LABEL": "Hyɛdeɛ No Asoma/Agye"
+    },
+    "BUY_FROM_SELLER": {
+      "BUY_FROM_SELLER_HEADER": "Tɔ Firi Ɔtɔnni Hɔ",
+      "SELLER_DETAILS_LABEL": "Ɔtɔnni Nsɛm",
+      "SELLER_ADDRESS_POSITION_LABEL": "Ɔtɔnni Fie Anaa Ne Beaeɛ",
+      "MAKE_PAYMENT_TO_WALLET_ADDRESS_LABEL": "Tua ka kɔ saa sika kotokɔ adiresɛ yi so",
+      "PAYMENT_TO_WALLET_NOT_PROVIDED_MESSAGE": "Frɛ ɔtɔnfo no na bisa no sɛ ɔmfa ne sika kotoku adrɛs no",
+      "LEAVE_A_REVIEW_MESSAGE": "Gyaa Nsɛm Fa Ɔtɔnni No Ho",
+      "FACE_SELECTION_REVIEW_MESSAGE": "Paw anim a ɛda sɛnea wopɛ ho adi",
+      "ADDITIONAL_COMMENTS_PLACEHOLDER": "Kyerɛ nsɛm foforɔ wɔ ha",
+      "FEEDBACK_PHOTO_UPLOAD_LABEL": "Fa mfonini a ɛkyerɛ w'adwene gu so",
+      "REVIEWS_SUMMARY_LABEL": "Nsɛm Nkyerɛaseɛ",
+      "REVIEWS_SCORE_MESSAGE": "Nsɛm Nka Ho: {seller_review_rating} fi 5.0 mu",
+      "SELLER_CONTACT_DETAILS_LABEL": "Ɔtɔnni Nkyerɛkyerɛ Fa N'Ho",
+      "SELLER_USERNAME_LABEL": "Din a ɔde hyɛ mu",
+      "SELLER_PHONE_NUMBER_LABEL": "Fon nɔma",
+      "SELLER_EMAIL_ADDRESS_LABEL": "Email adrɛs",
+      "ONLINE_SHOPPING": {
+        "SELLER_ITEMS_FEATURE": {
+          "ITEM_LABEL": "Adeɛ",
+          "PRICE_LABEL": "Bɔ",
+          "DESCRIPTION_LABEL": "Nkyerɛmu",
+          "PHOTO": "Mfonini",
+          "BUYING_QUANTITY_LABEL": "Dodow",
+          "PICK_LABEL": "Paw",
+          "UNPICK_LABEL": "Twa Ho"
+        }
+      },
+      "ORDER_SUCCESSFUL_MESSAGE": "Wɔahyɛ hyɛdeɛ no yiye",
+      "ORDER_FAILED_OR_MAPPI_REQUIRED_MESSAGE": "Antumi annye adwuma no. Mesrɛ, san hwɛ bio na hu sɛ wowɔ Mappi baako anaa sen bi."
+    },
+    "REVIEWS": {
+      "REVIEWS_HEADER": "Nsɛnkɔm",
+      "GIVE_REVIEW_SECTION_HEADER": "Ma pioneer yi nsɛnkɔm",
+      "REVIEWS_GIVEN_SECTION_HEADER": "Nsɛnkɔm a pioneer yi de ama afoforɔ",
+      "REVIEWS_RECEIVED_SECTION_HEADER": "Nsɛnkɔm a pioneer yi nyaa",
+      "VALIDATION": {
+        "NO_REVIEWS_FOUND": "Yennyae nsɛnkɔm biara maa Pioneer {search_value}",
+        "NO_PIONEER_FOUND": "Yennyae Pioneer a ɔyɛ {search_value}"
+      }
+    },
+    "EDIT_REVIEW": {
+      "EDIT_REVIEW_HEADER": "Sesaa Adwene",
+      "REVIEW_GIVEN_TO_LABEL": "Adwene a wɔmaa",
+      "DATE_TIME_REVIEW_GIVEN_LABEL": "Da ne bere a wɔmaa adwene no"
+    },
+    "CHECK_REVIEWS_FEEDBACK": {
+      "CHECK_REVIEWS_NO_FEEDBACK_HEADER": "Nsɛnkɔm biara nni hɔ ma {seller_id}",
+      "CHECK_REVIEWS_FEEDBACK_HEADER": "Nsɛnkɔm a wɔde maa {seller_id}",
+      "BY_REVIEWER": "Firi {buyer_id}"
+    },
+    "REPLY_TO_REVIEW": {
+      "REPLY_TO_REVIEW_STATIC_HEADER": "Bɔ Nsɛnkɔm",
+      "REPLY_TO_REVIEW_SUBHEADER": "Nsɛnkɔm a wopɛ sɛ wopɛ bɔ ho",
+      "GIVE_REPLY_TO_REVIEW_SUBHEADER": "Ma nsɛnkɔm kɔ nsɛnkɔm no ho",
+      "REPLY_TO_REVIEW_HEADER": "Bɔ nsɛnkɔm a wɔde maa {seller_id}",
+      "BY_REVIEWER": "Firi {buyer_id}",
+      "REPLY_TO_REVIEW_MESSAGE": "Bɔ wo nsɛnkɔm a ɛda ho adi sɛnea wopɛ",
+      "FACE_SELECTION_REVIEW_MESSAGE": "Paw anim a ɛda sɛnea wopɛ ho adi wɔ wo ne pioneer no nkɔmmɔ",
+      "ADDITIONAL_COMMENTS_PLACEHOLDER": "Kyerɛ nsɛm foforɔ wɔ ha",
+      "FEEDBACK_PHOTO_UPLOAD_LABEL": "Fa mfonini a ɛkyerɛ w'adwene gu so",
+      "VALIDATION": {
+        "LOADING_REVIEW_FAILURE": "Eyi yɛ mfomso wɔ nsɛnkɔm no mu",
+        "SELF_REVIEW_NOT_POSSIBLE": "Wɔnntumi nyɛ nsɛnkɔm ho nhwehwɛmu"
+      }
+    },
+    "NOTIFICATIONS": {
+      "NOTIFICATIONS_HEADER": "Nsɛm a wɔde brɛ wo",
+      "NO_NOTIFICATIONS_SUBHEADER": "Wo nni nsɛm biara deɛ ɛbɛto wo so",
+      "NOTIFICATION_SECTION": {
+        "NOTIFICATION_LABEL": "Nsɛm no",
+        "NOTIFICATION_TIME_LABEL": "Bere a wɔde brɛɛ wo",
+        "NOTIFICATION_STATUS": {
+          "READ": "Pepa",
+          "UNREAD": "Nnpepam"
+        }
+      }
+    }
+  },
+  "POPUP": {
+    "MAP_MARKER": {
+      "SELLER_SALE_ITEMS_FIELD": "Ahyɛde a ɔtɔfo de retoa",
+      "DISTANCE_MESSAGE": "Mmerɛ: XXX km fi"
+    },
+    "APP_VERSION_INFO": {
+      "REPORTING_MESSAGE": "Yɛsrɛ, kɔ so kɔka nsɛnhia no ho"
+    },
+    "PRIVACY_POLICY_INFO": {
+      "TITLE": "Nkɔmɔ Ho Mmara",
+      "LAST_UPDATED": "Eyi yɛde a wɔakyerɛw no",
+      "EMAIL_ADDRESS": "Email Address",
+      "SECTIONS": {
+        "HEADER_1": "Ahyɛase",
+        "CONTENT_1": "Akɔɔm Map of Pi app, a yɛde Pi Community abɔ no mu. Nkɔmɔ Ho Mmara yi kyerɛ sɛnea yɛbɔ, yɛde, na yɛda wo ho nsɛm ho adwuma wɔ bere a wopɛ sɛ wokɔ so di dwuma wɔ yɛn app no.",
+        "HEADER_2": "Nsɛm A Yɛbɔ",
+        "SUBHEADER_2_1": "User Nsɛm",
+        "CONTENT_2_1_1": "Bere a wopɛ sɛ wopɛyɛ sɛ ɔdɔmfo, yɛbɛtɔ wo din, email address, ɔdɔmfo din, ne nsɛm foforɔ a ɛho hia.",
+        "CONTENT_2_1_2": "Yɛbɛtɔ wo ho nsɛm ho fa w'adwuma, ɔdɔmfo mfonini ne dɔmfo ID ho nsɛm.",
+        "SUBHEADER_2_2": "Seller Nsɛm",
+        "CONTENT_2_2_1": "Sellers a wɔde wɔn ho gu nkɔmɔ no, wɔn ho hia sɛ wɔde Seller nsɛm bi a ɛfiri wo ho, na ɛfa Seller din, beae, na contact details.",
+        "CONTENT_2_2_2": "Seller no betumi ayɛ adwuma anaa ɔbarima bi.",
+        "HEADER_3": "Sɛnea Yɛde W'ahoɔden No Bɔ",
+        "SUBHEADER_3_1": "Dɛɛdi Dwumadi",
+        "CONTENT_3_1_1": "Yɛde w'ahoɔden no yɛ yɛn Map of Pi dwumadi mu ho adwuma, ne nkɔmɔ Seller adwumadi no.",
+        "SUBHEADER_3_2": "Nkɔmɔ",
+        "CONTENT_3_2_1": "Yɛbɛfa w'ahoɔden no to so, deɛ ɛbɛtɔ nkɔmɔ wɔ app Map of Pi so.",
+        "SUBHEADER_3_3": "Nkyerɛase",
+        "CONTENT_3_3_1": "Yɛkɔ so de fa na ɛtɔ ne so nkɔfa na yɛda Map of Pi mu ne ne dwumadi so.",
+        "HEADER_4": "Nea Yɛde W'ahoɔden No Sɔ Wɔmu",
+        "SUBHEADER_4_1": "Sellers",
+        "CONTENT_4_1_1": "User nsɛm no betumi abɔ Seller mu na ɛbɛyɛ nkɔmɔ a ɛde asɛm kɔ nkɔmɔ.",
+        "SUBHEADER_4_2": "Wɔ Nkabom Mmrɛ",
+        "CONTENT_4_2_1": "Yɛde nkɔmɔ abɔ nkabom ho kɔ Service provider ho a wɔbɛhyɛ Map of Pi dwumadi so.",
+        "HEADER_5": "Dɔmfo Daakye",
+        "CONTENT_5_1": "Yɛde a ɛwɔ dwuma wɔ nkabom daakye mu da wo ho nsɛm no.",
+        "HEADER_6": "W'ahoɔden A Wo Bisa",
+        "CONTENT_6_1": "Wobɛtumi asesa wo account nsɛm wɔ app no mu. Wobɛtumi asesa wo Map of Pi account no sɛ wokɔ Pi Network account no mu na wopɛ sɛ wopɛ sɛ wopow wo Map of Pi data no bere a wopɛ sɛ wokɔ Map of Pi so. Wubetumi asesa ho ne nkɔmɔ afiri ɛfiri.",
+        "HEADER_7": "Nkɔmɔ Ho Mmara A ɛho yɛ Krado",
+        "CONTENT_7_1": "Yɛbɛtɔ nkɔmɔ ho mmara a ɛho yɛ krado sɛnea ɛho hia. Nea ɛda ho no ne nkɔmɔ so nsɛnhia no.",
+        "HEADER_8": "Yɛka ho Asɛm",
+        "CONTENT_8_1": "Sɛ wowɔ nsɛnhia anaa asɛm bi a, kɔfa email kɔbɔ yɛn ho."
+      }
+    },
+    "TERMS_OF_SERVICE_INFO": {
+      "TITLE": "Nkɔmɔ Ho Mmara",
+      "LAST_UPDATED": "Atoaso a ɛda ho",
+      "EMAIL_ADDRESS": "Email Adwuma",
+      "SECTIONS": {
+        "HEADER_1": "Mmoa Ahyɛde",
+        "CONTENT_1_1": "Akwaaba kɔ Map of Pi app no mu, a ɛyɛ Map of Pi team no na ɛwɔ Pi Community no mu. Wokɔ so de app no yɛ adwuma a, wopene so sɛ wubedi nkɔmɔ ho mmara yi, ne yɛn Privacy Policy.",
+        "HEADER_2": "App no Dɔɔso",
+        "CONTENT_2_1": "Wopene so sɛ wode Map of Pi app no bɛyɛ adwuma a ɛwɔ mmara ne nkɔmɔ a ɛsɔ mu.",
+        "CONTENT_2_2": "Wubetumi ɛnkɔfa app no yɛ nneɛma a ɛnni ho mmara, anaa a ɛkɔda so sɛ wobɛtɔ app no mu na ɛbɛyɛ ho sɛ yɛmfa.",
+        "CONTENT_2_3": "Wobɛtumi de Map of Pi yɛ dɛn, sɛnea ɛbɛyɛ pioneeɛ yɛ Pi Network nkɔmɔ da ho.",
+        "HEADER_3": "Ahoɔfɛ ho Ahyehyɛde",
+        "CONTENT_3_1": "Map of Pi app no ne ne nnɔnhwere ne fɔw ne nsusuw a ɛda ho yɛ Map of Pi, na ɛde ahwehwɛ a ɛda ho sɛ nea ɛda ho sɛ adwene, nsɛm ne ahyɛn faɛ.",
+        "HEADER_4": "Nkɔmɔ a ɛho Abɔntene",
+        "CONTENT_4_1": "Map of Pi renkɔda nkɔmɔ ɔneɛ nkɔmɔ biara da ho na ɛfiri Map of Pi app no mu da ho.",
+        "HEADER_5": "Abɔnten a ɛtɔ so",
+        "CONTENT_5_1": "Wopene so sɛ wubedi abɔnten ɛkɔda Map of Pi ne ne nkɔmɔ ne mpɔtam so ɔde ɛɛ nsɛnhia.",
+        "HEADER_6": "Nkɔmɔ Ho Adwene",
+        "CONTENT_6_1": "Nkɔmɔ ho ɛda ho nkɔmɔ a ɛda ho kɔda ɛwɔ fa sɛ ɛka de Pi Network nkɔmɔ di.",
+        "HEADER_7": "Nsɛm a ɛda nkɔmɔ ho",
+        "CONTENT_7_1": "Yɛbɛda ho adwene sɛ yɛbɛsesa anaa yɛbɛyɛ adwuma wɔ Nkɔmɔ Ho Mmara yi mu bere biara a ɛnni nkɔmɔ a ɛdi kan. Ɛda ho version"
+      }
+    }
+  },
+  "SHARED": {
+    "PIONEER_LABEL": "Pioneer",
+    "PIONEER_ID_LABEL": "Pioneer ahyɛnsodeɛ",
+    "MEMBERSHIP": "Abɔdeɛ mu",
+    "BUY": "Tɔ",
+    "WATCH": "Hwɛ",
+    "RESET": "San hyɛ bio",
+    "REFUND": "San sika no",
+    "FULFILL": "Di dwuma no so",
+    "FULFILLED": "Wɔadi dwuma no so",
+    "PENDING": "Retwɛn so",
+    "NAVIGATE": "Kɔ",
+    "NO_COMMENT": "Nkomentɛn bi nni hɔ",
+    "SEARCH_CENTER": "Seti Search Center",
+    "CHECK_REVIEWS": "Hwɛ Reviews",
+    "SEARCH_REVIEWS": "Hwehwɛ Reviews",
+    "SEARCH_LOADING": "Search rehyɛ...",
+    "VIEW_NOTIFICATIONS": "Hwɛ nsɛm no",
+    "REPLY": "Ka",
+    "EDIT": "Sesã",
+    "COPY": "Fa",
+    "ADD_ITEM": "Ka Item",
+    "CHECKOUT": "Tua ka",
+    "DELETE": "Popa",
+    "CONFIRM_DELETE": "Wopɛ sɛ wopopa saa item yi? Saa nsɛm no rentumi mfa.",
+    "SAVE": "Sie",
+    "CONFIRM": "Kyerɛw",
+    "CONFIRM_DIALOG": "Woadi nkɔmɔ a wode si ho. Wopɛ sɛ wopɛ nkɔ faako no?",
+    "USER_INFORMATION": {
+      "PI_USERNAME_LABEL": "Pi username",
+      "NAME_LABEL": "Din",
+      "PHONE_NUMBER_LABEL": "Fɔne nɔmba",
+      "EMAIL_LABEL": "Email"
+    },
+    "PHOTO": {
+      "UPLOAD_PHOTO_LABEL": "To mfonini no",
+      "UPLOAD_PHOTO_PLACEHOLDER": "Fa mfonini to so sɛnea ɛbɛboa ma agyenkwafoɔ",
+      "UPLOAD_PHOTO_REVIEW_PLACEHOLDER": "Fa mfonini to so na ɛboa wo review no",
+      "IMAGE_DROP_UPLOAD_MESSAGE": "Bɔ wo mfonini ha anaa kɔ fa so",
+      "SUPPORTS_FILE_MESSAGE": "Ɔyɛ: PNG, JPG, JPEG, WEBP",
+      "MISC_LABELS": {
+        "USER_PREFERENCES_LABEL": "Profaili mfonini",
+        "SELLER_IMAGE_LABEL": "Tɔfo mfonini",
+        "REVIEW_FEEDBACK_IMAGE_LABEL": "Review mfonini",
+        "EDIT_REVIEW_FEEDBACK_IMAGE_LABEL": "San mfonini no"
+      }
+    },
+    "REACTION_RATING": {
+      "UNSAFE": "Nnyɛ no yie",
+      "TRUSTWORTHY": "Ahyɛ nsɛm mu",
+      "EMOTIONS": {
+        "DESPAIR": "Anibere",
+        "SAD": "Yaw",
+        "OKAY": "Yoo",
+        "HAPPY": "Anigye",
+        "DELIGHT": "Ahotoso"
+      },
+      "VALIDATION": {
+        "SUCCESSFUL_REVIEW_SUBMISSION": "Review no abɛda so yie",
+        "UNSUCCESSFUL_REVIEW_SUBMISSION": "Review no anantumi da so",
+        "SELECT_EMOJI_EXPRESSION": "Pleasɛ, pɛ emoji expression"
+      }
+    },
+    "MAP_CENTER": {
+      "SEARCH_BAR_PLACEHOLDER": "Hwehwɛ bea, kurom, anaa adress",
+      "VALIDATION": {
+        "MAP_CENTER_SUCCESS_MESSAGE": "Wo center no atɔ so yie",
+        "SELL_CENTER_SANCTIONED_MESSAGE": "Beae a wopawɛ no te sɛ ɛwɔ ɛkuo a wɔakyiw no mu. Sɛ ɛyɛ nokware a, w’aguadum nsɛntitiriw no betumi ayɛ sɛ wɔbɛyi no afi map no so."
+      }
+    },
+    "LOADING_SCREEN_MESSAGE": "Rehyɛ ...",
+    "SAVING_SCREEN_MESSAGE": "Rekɔsie ...",
+    "VALIDATION": {
+      "SUBMISSION_FAILED_USER_NOT_AUTHENTICATED": "Sɔre no antumi anko efisɛ ɔde no annye",
+      "UNEXPECTED_ERROR_MESSAGE": "Ɛyɛɛ mmerɛ nkɔmɔ"
+    }
+  },
+  "ERROR": {
+    "PAGE_NOT_FOUND_HEADER": "Krataa no nni hɔ",
+    "PAGE_NOT_FOUND_MESSAGE": "Yɛbɔ mmɔden, krataa a wopɛ no nni hɔ."
+  }
+}

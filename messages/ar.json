@@ -1,0 +1,402 @@
+{
+  "HOME": {
+    "ADD_SELLER": "بائع",
+    "SEARCH_CENTER_DEFAULT_MESSAGE": "مركز البحث الخاص بك مضبوط حاليًا على الإحداثيات الافتراضية [0، 0]. لتحسين تجربتك، يُرجى تحديث موقع مركز البحث الخاص بك.",
+    "SEARCH_BAR_PLACEHOLDER": "ابحث عن البائعين أو العناصر",
+    "NEW_NOTIFICATIONS_MESSAGE": "لديك إشعارات",
+    "LOCATION_SERVICES": {
+      "ENABLE_LOCATION_SERVICES_MESSAGE": "لتفعيل هذه الميزة، يرجى تفعيل خدمات الموقع في إعدادات جهازك.",
+      "DISABLED_LOCATION_SERVICES_MESSAGE": "خدمات الموقع معطلة. يرجى تفعيل إعدادات الموقع في جهازك."
+    },
+    "AUTHENTICATION": {
+      "SUCCESSFUL_LOGIN_MESSAGE": "تسجيل الدخول ناجح",
+      "UNSUCCESSFUL_LOGIN_MESSAGE": "فشل في تسجيل الدخول",
+      "PI_INFORMATION_NOT_FOUND_MESSAGE": "لم يتم العثور على معلومات Pi"
+    }
+  },
+  "SIDE_NAVIGATION": {
+    "VIEW_ORDERS_LABEL": "عرض الطلبات",
+    "USER_PREFERENCES_HEADER": "تفضيلات المستخدم",
+    "PERSONALIZATION_SUBHEADER": "التخصيص",
+    "LANGUAGES": "اللغات",
+    "ABOUT": {
+      "ABOUT_MAP_OF_PI": "حول Map of Pi",
+      "APP_VERSION": "إصدار التطبيق",
+      "PRIVACY_POLICY": "سياسة الخصوصية",
+      "TERMS_OF_SERVICE": "شروط الخدمة"
+    },
+    "WALLET_ADDRESS_LABEL": "عنوان محفظة Pi",
+    "WALLET_ADDRESS_PLACEHOLDER": "أدخل عنوان محفظة Pi الخاصة بك",
+    "FIND_ME_PREFERENCE_LABEL": "تفضيل FindMe",
+    "FIND_ME_OPTIONS": {
+      "PREFERRED_AUTO": "تلقائي",
+      "PREFERRED_DEVICE_GPS": "استخدام GPS الجهاز",
+      "PREFERRED_SEARCH_CENTER": "استخدام مركز البحث"
+    },
+    "SEARCH_FILTERS_SUBHEADER": "فلاتر البحث",
+    "SEARCH_FILTERS": {
+      "INCLUDE_ACTIVE_SELLERS": "البائعون النشطون",
+      "INCLUDE_INACTIVE_SELLERS": "البائعون غير النشطين",
+      "INCLUDE_TEST_SELLERS": "البائعون التجريبيون",
+      "INCLUDE_HOLIDAY_SELLERS": "بائعو العطلات"
+    },
+    "CONTACT_MAP_OF_PI": "اتصل بـ Map of Pi",
+    "VALIDATION": {
+      "SUCCESSFUL_PREFERENCES_SUBMISSION": "تم حفظ التفضيلات بنجاح",
+      "UNSUCCESSFUL_PREFERENCES_SUBMISSION": "خطأ في حفظ التفضيلات"
+    }
+  },
+  "SCREEN": {
+    "MEMBERSHIP": {
+      "MEMBERSHIP_HEADER": "العضوية",
+      "CURRENT_MEMBERSHIP_CLASS_LABEL": "فئة العضوية الحالية",
+      "CURRENT_MEMBERSHIP_END_DATE_LABEL": "تاريخ انتهاء العضوية الحالية",
+      "CURRENT_MEMBERSHIP_END_DATE_NO_ACTIVE_MEMBERSHIP": "لا توجد عضوية نشطة",
+      "MAPPI_ALLOWANCE_REMAINING_LABEL": "رصيد Mappi المتبقي",
+      "PICK_MEMBERSHIP_MAPPI_TO_BUY_LABEL": "اختر العضوية أو Mappi للشراء",
+      "PICK_MEMBERSHIP_DURATION_IN_WEEKS_LABEL": "العضوية ({duration} أسابيع)",
+      "PICK_BUY_METHOD_LABEL": "اختر طريقة الشراء",
+      "PURCHASE_OPTIONS": {
+        "PAY_WITH_PI": "الدفع بواسطة π",
+        "WATCH_ADS": "شاهد الإعلانات (مجاني)",
+        "USE_VOUCHER": "استخدم رمز القسيمة (مجاني)"
+      },
+      "ENTER_VOUCHER_CODE_PLACEHOLDER": "أدخل رمز القسيمة",
+      "VALIDATION": {
+        "SUCCESSFUL_MEMBERSHIP_ACTIVATION_MESSAGE": "تم تفعيل العضوية بنجاح",
+        "FAILED_LOAD_MEMBERSHIP_MESSAGE": "فشل في تحميل بيانات العضوية",
+        "FAILED_MEMBERSHIP_PAYMENT_MESSAGE": "فشل دفع رسوم العضوية",
+        "USER_NOT_LOGGED_IN_PAYMENT_MESSAGE": "يجب أن يقوم المستخدم بتسجيل الدخول لإجراء الدفع"
+      }
+    },
+    "SELLER_REGISTRATION": {
+      "SELLER_REGISTRATION_HEADER": "إدارة البائع",
+      "SELLER_RESTRICTION_MESSAGE": "مركز البيع الخاص بك يقع في منطقة خاضعة للعقوبات من Pi Network، لذلك سيتم إخفاء علامتك على الخريطة عن جميع المستخدمين",
+      "SELLER_DETAILS_LABEL": "تفاصيل البائع",
+      "EMAIL_LABEL": "البريد الإلكتروني",
+      "PHONE_NUMBER_LABEL": "رقم الهاتف",
+      "CONTACT_PUBLIC_NOTE": "البريد الإلكتروني ورقم الهاتف سيكونان مرئيين للعموم.",
+      "SELLER_DETAILS_PLACEHOLDER": "أبيع عبر Pay with Pi.",
+      "REVIEWS_SUMMARY_LABEL": "ملخص التقييمات",
+      "REVIEWS_SCORE_LABEL": "درجة التقييمات",
+      "SELLER_NAME": "اسم البائع",
+      "SELLER_TYPE": {
+        "SELLER_TYPE_LABEL": "نوع البائع",
+        "SELLER_TYPE_OPTIONS": {
+          "ACTIVE_SELLER": "بائع نشط",
+          "INACTIVE_SELLER": "بائع غير نشط",
+          "TEST_SELLER": "بائع تجريبي",
+          "HOLIDAY_SELLER": "بائع العطلات",
+          "RESTRICTED_SELLER": "بائع مقيّد"
+        }
+      },
+      "SELLER_ADVANCED_SETTINGS_LABEL": "إعدادات متقدمة للبائع",
+      "SELLER_RETAIL_OUTLET_NAME": "اسم منفذ البيع",
+      "SELLER_ADDRESS_LOCATION_LABEL": "العنوان أو مكان البيع",
+      "SELLER_ADDRESS_LOCATION_PLACEHOLDER": "علامة الموقع على الخريطة تظهر مكان بيعي",
+      "SELLER_SETTINGS_LABEL": "إعدادات البائع",
+      "SELLER_SELL_CENTER": "تحديد مركز البيع",
+      "SELLER_ONLINE_SHOPPING_ITEMS_LIST_LABEL": "التسوق عبر الإنترنت | قائمة العناصر للبيع",
+      "SELLER_ONLINE_SHOPPING_ORDER_FULFILLMENT_LABEL": "التسوق عبر الإنترنت | تنفيذ الطلبات",
+      "MAPPI_ALLOWANCE_LABEL": "المخصص المتبقي في Mappi",
+      "FULFILLMENT_METHOD_TYPE": {
+        "FULFILLMENT_METHOD_TYPE_LABEL": "طريقة الإتمام",
+        "FULFILLMENT_METHOD_TYPE_OPTIONS": {
+          "COLLECTION_BY_BUYER": "الدفع من قبل المشتري",
+          "DELIVERED_TO_BUYER": "تسليم إلى المشتري"
+        }
+      },
+      "SELLER_TO_BUYER_FULFILLMENT_INSTRUCTIONS_LABEL": "تعليمات التنفيذ للمشتري",
+      "SELLER_TO_BUYER_FULFILLMENT_INSTRUCTIONS_PLACEHOLDER": "الدفع يكون من عنوان البائع. إذا تم اختيار التوصيل، يرجى إدخال عنوان المشتري.",
+      "BUYER_TO_SELLER_FULFILLMENT_DETAILS_LABEL": "تفاصيل تنفيذ المشتري",
+      "VALIDATION": {
+        "EMAIL_VALIDATION": "يرجى إدخال بريد إلكتروني صالح",
+        "SUCCESSFUL_REGISTRATION_SUBMISSION": "تم التسجيل بنجاح",
+        "FAILED_REGISTRATION_SUBMISSION": "خطأ في حفظ التسجيل",
+        "REGISTRATION_FAILED_USER_NOT_AUTHENTICATED": "فشل التسجيل بسبب عدم المصادقة",
+        "UNINITIALIZED_SELL_CENTER": "يرجى تحديد مركز البيع",
+        "SUCCESSFUL_SELLER_ITEM_SAVED": "تم حفظ منتج البائع بنجاح",
+        "SUCCESSFUL_SELLER_ITEM_DELETED": "تم حذف منتج البائع بنجاح",
+        "FAILED_SELLER_ITEM_SAVE": "حدث خطأ أثناء حفظ منتج البائع",
+        "FAILED_SELLER_ITEM_DELETE": "خطأ في حذف منتج البائع",
+        "SELLER_ITEM_NOT_FOUND": "منتج البائع غير موجود",
+        "SUCCESSFUL_SAVE_MAPPI_ALLOWANCE_SUFFICIENT": "تم الحفظ بنجاح. تم استخدام مخصصات Mappi {mappi_count}",
+        "FAILED_SAVE_MAPPI_ALLOWANCE_INSUFFICIENT": "فشل الحفظ. المخصصات المتاحة من Mappi غير كافية"
+      },
+      "SELLER_ITEMS_FEATURE": {
+        "ITEM_LABEL": "منتج",
+        "PRICE_LABEL": "السعر",
+        "STOCK_LABEL": "مستوى المخزون",
+        "DESCRIPTION_LABEL": "الوصف",
+        "PHOTO": "الصورة",
+        "SELLING_DURATION_LABEL": "مدة البيع بالأسابيع",
+        "SELLING_STATUS_OPTIONS": {
+          "ACTIVE": "نشط",
+          "EXPIRED": "منتهي الصلاحية"
+        },
+        "STOCK_LEVEL_OPTIONS": {
+          "AVAILABLE_1": "1 متوفر",
+          "AVAILABLE_2": "2 متوفر",
+          "AVAILABLE_3": "3 متوفر",
+          "MANY": "متوفر بكثرة",
+          "MADE_TO_ORDER": "يصنع عند الطلب",
+          "ONGOING_SERVICE": "خدمة مستمرة",
+          "SOLD": "تم البيع"
+        },
+        "SELLING_EXPIRATION_DATE": "يباع بتاريخ صلاحية {expired_by_date}",
+        "VALIDATION": {
+          "REDUCED_DURATION_BELOW_REMAINING_WEEKS": "لا يمكن تقليل مدة البيع إلى أقل من {remaining_weeks} أسابيع"
+        }
+      }
+    },
+    "SELLER_ORDER_FULFILLMENT": {
+      "ORDER_LIST_HEADER": "قائمة الطلبات",
+      "VIEW_ORDER_HEADER": "عرض الطلب",
+      "SELLER_ORDER_FULFILLMENT_HEADER": "إتمام طلب البائع",
+      "ORDER_HEADER_SUBHEADER": "رأس الطلب",
+      "ORDERED_ITEMS_SUBHEADER": "العناصر المطلوبة",
+      "ORDER_HEADER_ITEMS_FEATURE": {
+        "SELLER_LABEL": "البائع",
+        "TOTAL_PRICE_LABEL": "السعر الإجمالي",
+        "TIME_OF_ORDER_LABEL": "وقت الطلب",
+        "STATUS_LABEL": "الحالة"
+      },
+      "STATUS_TYPE": {
+        "INITIALIZED": "تم البدء",
+        "PENDING": "قيد الانتظار",
+        "COMPLETED": "مكتمل",
+        "CANCELED": "تم الإلغاء",
+        "REFUNDED": "تم استرداد المبلغ",
+        "FULFILLED": "تم التنفيذ"
+      },
+      "ORDER_COMPLETED_LABEL": "تم إكمال الطلب",
+      "ORDER_DISPATCHED_COLLECTED_LABEL": "تم شحن/استلام الطلب"
+    },
+    "BUY_FROM_SELLER": {
+      "BUY_FROM_SELLER_HEADER": "شراء من البائع",
+      "SELLER_DETAILS_LABEL": "تفاصيل البائع",
+      "SELLER_ADDRESS_POSITION_LABEL": "عنوان أو مكان البائع",
+      "MAKE_PAYMENT_TO_WALLET_ADDRESS_LABEL": "قم بالدفع إلى عنوان المحفظة هذا",
+      "PAYMENT_TO_WALLET_NOT_PROVIDED_MESSAGE": "اتصل بالبائع لطلب عنوان المحفظة",
+      "LEAVE_A_REVIEW_MESSAGE": "اترك تقييمًا",
+      "FACE_SELECTION_REVIEW_MESSAGE": "اختر الوجه الذي يعبر عن شعورك حول هذا البائع",
+      "ADDITIONAL_COMMENTS_PLACEHOLDER": "أدخل تعليقات إضافية هنا",
+      "FEEDBACK_PHOTO_UPLOAD_LABEL": "تحميل صورة التقييم", 
+      "REVIEWS_SUMMARY_LABEL": "ملخص التقييمات", 
+      "REVIEWS_SCORE_MESSAGE": "درجة التقييمات: {seller_review_rating} من 5.0", 
+      "SELLER_CONTACT_DETAILS_LABEL": "تفاصيل الاتصال بالبائع", 
+      "SELLER_USERNAME_LABEL": "اسم المستخدم", 
+      "SELLER_PHONE_NUMBER_LABEL": "رقم الهاتف", 
+      "SELLER_EMAIL_ADDRESS_LABEL": "البريد الإلكتروني",
+      "ONLINE_SHOPPING": {
+        "SELLER_ITEMS_FEATURE": {
+          "ITEM_LABEL": "المنتج",
+          "PRICE_LABEL": "السعر",
+          "DESCRIPTION_LABEL": "الوصف",
+          "PHOTO": "صورة",
+          "BUYING_QUANTITY_LABEL": "الكمية",
+          "PICK_LABEL": "إضافة",
+          "UNPICK_LABEL": "إزالة"
+        }
+      },
+      "ORDER_SUCCESSFUL_MESSAGE": "تم تقديم الطلب بنجاح",
+      "ORDER_FAILED_OR_MAPPI_REQUIRED_MESSAGE": "فشل معالجة الطلب. الرجاء المحاولة مرة أخرى والتأكد من أن لديك على الأقل 1 Mappi."
+    }, 
+    "REVIEWS": { 
+      "REVIEWS_HEADER": "التقييمات", 
+      "GIVE_REVIEW_SECTION_HEADER": "إعطاء تقييم لهذا المستخدم", 
+      "REVIEWS_GIVEN_SECTION_HEADER": "التقييمات التي قدمها هذا المستخدم", 
+      "REVIEWS_RECEIVED_SECTION_HEADER": "التقييمات التي تلقاها هذا المستخدم", 
+      "VALIDATION": { 
+        "NO_REVIEWS_FOUND": "لم يتم العثور على تقييمات للمستخدم {search_value}", 
+        "NO_PIONEER_FOUND": "لم يتم العثور على المستخدم {search_value}" 
+      } 
+    },
+    "EDIT_REVIEW": {
+      "EDIT_REVIEW_HEADER": "تعديل التقييم",
+      "REVIEW_GIVEN_TO_LABEL": "التقييم الممنوح لـ",
+      "DATE_TIME_REVIEW_GIVEN_LABEL": "تاريخ ووقت تقديم التقييم"
+    },
+    "CHECK_REVIEWS_FEEDBACK": { 
+      "CHECK_REVIEWS_NO_FEEDBACK_HEADER": "لا توجد تقييمات لـ {seller_id}", 
+      "CHECK_REVIEWS_FEEDBACK_HEADER": "قائمة التقييمات المتروكة لـ {seller_id}", 
+      "BY_REVIEWER": "بواسطة {buyer_id}" 
+    }, 
+    "REPLY_TO_REVIEW": { 
+      "REPLY_TO_REVIEW_STATIC_HEADER": "الرد على التقييم", 
+      "REPLY_TO_REVIEW_SUBHEADER": "التقييم الذي ترد عليه", 
+      "GIVE_REPLY_TO_REVIEW_SUBHEADER": "إعطاء رد على التقييم", 
+      "REPLY_TO_REVIEW_HEADER": "الرد على التقييم المتروك لـ {seller_id}", 
+      "BY_REVIEWER": "بواسطة {buyer_id}", 
+      "REPLY_TO_REVIEW_MESSAGE": "اترك ردك على التقييم أعلاه", 
+      "FACE_SELECTION_REVIEW_MESSAGE": "اختر الوجه الذي يعبر عن شعورك حول التفاعل مع هذا المستخدم", 
+      "ADDITIONAL_COMMENTS_PLACEHOLDER": "أدخل تعليقات إضافية هنا", 
+      "FEEDBACK_PHOTO_UPLOAD_LABEL": "تحميل صورة التقييم", 
+      "VALIDATION": { 
+        "LOADING_REVIEW_FAILURE": "خطأ في تحميل التقييم", 
+        "SELF_REVIEW_NOT_POSSIBLE": "لا يمكن تقييم نفسك" 
+      } 
+    },
+    "NOTIFICATIONS": {
+      "NOTIFICATIONS_HEADER": "الإشعارات",
+      "NO_NOTIFICATIONS_SUBHEADER": "ليس لديك أي إشعارات بعد",
+      "NOTIFICATION_SECTION": {
+        "NOTIFICATION_LABEL": "إشعار",
+        "NOTIFICATION_TIME_LABEL": "وقت الإشعار",
+        "NOTIFICATION_STATUS": {
+          "READ": "مقروء",
+          "UNREAD": "غير مقروء"
+        }
+      }
+    }
+  },
+  "POPUP": {
+    "MAP_MARKER": {
+      "SELLER_SALE_ITEMS_FIELD": "عناصر البائع للبيع",
+      "DISTANCE_MESSAGE": "المسافة: XXX كم"
+    },
+    "APP_VERSION_INFO": {
+      "REPORTING_MESSAGE": "يرجى الإبلاغ عن الأخطاء إلى"
+    },
+    "PRIVACY_POLICY_INFO": {
+      "TITLE": "سياسة الخصوصية",
+      "LAST_UPDATED": "آخر تحديث",
+      "EMAIL_ADDRESS": "البريد الإلكتروني",
+      "SECTIONS": {
+        "HEADER_1": "مقدمة",
+        "CONTENT_1": "مرحبًا بكم في تطبيق Map of Pi، الذي تم تطويره بواسطة فريق Map of Pi بالتعاون مع مجتمع Pi. توضح سياسة الخصوصية هذه كيفية جمع واستخدام وكشف وحماية معلوماتك الشخصية عند استخدام تطبيقنا للجوال.",
+        "HEADER_2": "المعلومات التي نجمعها",
+        "SUBHEADER_2_1": "معلومات المستخدم",
+        "CONTENT_2_1_1": "عند التسجيل كمستخدم، قد نقوم بجمع اسمك و بريدك الإلكتروني واسم المستخدم وغيرها من التفاصيل ذات الصلة.",
+        "CONTENT_2_1_2": "قد نجمع معلومات حول جهازك، بما في ذلك نوع الجهاز ونظام التشغيل ومعرفات الجهاز الفريدة.",
+        "SUBHEADER_2_2": "معلومات البائع",
+        "CONTENT_2_2_1": "قد يُطلب من البائعين المسجلين على المنصة تقديم معلومات البائع، بما في ذلك اسم البائع والموقع وبيانات الاتصال.",
+        "CONTENT_2_2_2": "يمكن أن يكون البائع عملاً تجاريًا أو فردًا خاصًا.",
+        "HEADER_3": "كيف نستخدم معلوماتك",
+        "SUBHEADER_3_1": "تقديم الخدمات",
+        "CONTENT_3_1_1": "نستخدم معلوماتك لتقديم وتحسين خدمات تطبيق Map of Pi، بما في ذلك وظائف المستخدم والبائع.",
+        "SUBHEADER_3_2": "الاتصالات",
+        "CONTENT_3_2_1": "قد نستخدم معلومات الاتصال الخاصة بك لإرسال التحديثات والإشعارات والرسائل الترويجية المتعلقة بتطبيق Map of Pi.",
+        "SUBHEADER_3_3": "تحليلات",
+        "CONTENT_3_3_1": "نجمع ونحلل البيانات لتحسين الأداء والميزات ووظائف التطبيق.",
+        "HEADER_4": "مشاركة معلوماتك",
+        "SUBHEADER_4_1": "مع البائعين",
+        "CONTENT_4_1_1": "قد يتم مشاركة معلومات المستخدم مع البائعين لأغراض إتمام الطلبات والتواصل.",
+        "SUBHEADER_4_2": "مع الأطراف الثالثة",
+        "CONTENT_4_2_1": "قد نشارك المعلومات مع مزودي الخدمات من الأطراف الثالثة لوظائف التطبيق، والتحليلات، ومعالجة المدفوعات.",
+        "HEADER_5": "تدابير الأمان",
+        "CONTENT_5_1": "نطبق تدابير الأمان القياسية في الصناعة لحماية معلوماتك. ومع ذلك، فإن أي طريقة للنقل عبر الإنترنت أو التخزين الإلكتروني ليست آمنة تمامًا.",
+        "HEADER_6": "اختياراتك",
+        "CONTENT_6_1": "يمكنك تحديث معلومات حسابك من خلال إعدادات التطبيق. يمكنك حذف حسابك في Map of Pi عن طريق حذف حسابك في شبكة Pi واختيار حذف بيانات Map of Pi عند الوصول إلى التطبيق مرة أخرى. يمكنك إلغاء الاشتراك في الاتصالات الترويجية.",
+        "HEADER_7": "التغييرات على سياسة الخصوصية هذه",
+        "CONTENT_7_1": "قد نقوم بتحديث سياسة الخصوصية هذه عند الحاجة. سيتم نشر النسخة الأحدث على موقعنا أو داخل التطبيق.",
+        "HEADER_8": "اتصل بنا",
+        "CONTENT_8_1": "إذا كانت لديك أي أسئلة أو استفسارات حول سياسة الخصوصية هذه، يرجى التواصل معنا عبر إرسال بريد إلكتروني إلى"
+      }
+    },
+    "TERMS_OF_SERVICE_INFO": {
+      "TITLE": "شروط الخدمة",
+      "LAST_UPDATED": "آخر تحديث",
+      "EMAIL_ADDRESS": "البريد الإلكتروني",
+      "SECTIONS": {
+        "HEADER_1": "قبول الشروط",
+        "CONTENT_1_1": "مرحبًا بكم في تطبيق Map of Pi، الذي تم تطويره بواسطة فريق Map of Pi بالتعاون مع مجتمع Pi. باستخدام هذا التطبيق، فإنك توافق على الالتزام بشروط الخدمة هذه، بالإضافة إلى سياسة الخصوصية الخاصة بنا.",
+        "HEADER_2": "استخدام التطبيق",
+        "CONTENT_2_1": "توافق على استخدام تطبيق Map of Pi وفقًا لجميع القوانين واللوائح المعمول بها.",
+        "CONTENT_2_2": "يجب ألا تستخدم التطبيق لأي غرض غير قانوني أو محظور، أو بأي طريقة يمكن أن تضر، تعطل، تثقل أو تعيق التطبيق.",
+        "CONTENT_2_3": "لاستخدام Map of Pi يجب أن تكون مسجلاً كمستخدم في شبكة Pi.",
+        "HEADER_3": "حقوق الملكية الفكرية",
+        "CONTENT_3_1": "تطبيق Map of Pi وجميع المحتويات والميزات والوظائف مملوكة Map of Pi ومحمية بموجب قوانين حقوق الطبع والنشر والعلامات التجارية وحقوق الملكية الفكرية الأخرى.",
+        "HEADER_4": "تحديد المسؤولية",
+        "CONTENT_4_1": "لن تكون Map of Pi مسؤولة عن أي أضرار مباشرة أو غير مباشرة أو عرضية أو خاصة أو تبعية ناتجة عن أو مرتبطة بأي طريقة باستخدام تطبيق Map of Pi.",
+        "HEADER_5": "التعويض",
+        "CONTENT_5_1": "توافق على تعويض وحماية Map of Pi والشركات التابعة لها، والمسؤولين، والمديرين، والموظفين، والوكلاء من أي وجميع المطالبات والمسؤوليات والأضرار والخسائر أو النفقات (بما في ذلك أتعاب المحاماة) الناجمة عن أو ذات الصلة باستخدامك لتطبيق Map of Pi.",
+        "HEADER_6": "القانون الواجب التطبيق",
+        "CONTENT_6_1": "تخضع شروط الخدمة هذه وتفسر وفقًا لقانون إنجلترا وويلز دون مراعاة لتعارضها مع أحكام القانون، بما في ذلك أي نزاع أو مطالبة ناتجة عن أو متصلة بموضوعها أو تكوينها (بما في ذلك النزاعات أو المطالبات غير التعاقدية).",
+        "HEADER_7": "التغييرات على هذه الشروط",
+        "CONTENT_7_1": "نحتفظ بالحق في تحديث أو تعديل شروط الخدمة هذه في أي وقت دون إشعار مسبق. سيتم نشر النسخة الأحدث على موقعنا أو داخل التطبيق."
+      }
+    }
+  },
+  "SHARED": {
+    "PIONEER_LABEL": "رائد",
+    "PIONEER_ID_LABEL": "معرف المستخدم",
+    "MEMBERSHIP": "العضوية",
+    "BUY": "شراء",
+    "WATCH": "شاهد",
+    "RESET": "إعادة تعيين",
+    "REFUND": "استرداد",
+    "FULFILL": "تنفيذ",
+    "FULFILLED": "مكتمل",
+    "PENDING": "قيد الانتظار",
+    "NAVIGATE": "تنقل",
+    "NO_COMMENT": "لم يتم تقديم تعليق",
+    "SEARCH_CENTER": "تعيين مركز البحث",
+    "CHECK_REVIEWS": "تحقق من التقييمات",
+    "SEARCH_REVIEWS": "البحث في التقييمات",
+    "SEARCH_LOADING": "جارٍ تحميل البحث...",
+    "VIEW_NOTIFICATIONS": "عرض الإشعارات",
+    "REPLY": "رد",
+    "EDIT": "تعديل",
+    "COPY": "نسخ",
+    "ADD_ITEM": "إضافة منتج",
+    "CHECKOUT": "الدفع",
+    "DELETE": "حذف",
+    "CONFIRM_DELETE": "هل تريد حقًا حذف هذا المنتج؟ لا يمكن التراجع عن هذا الإجراء.",
+    "SAVE": "حفظ",
+    "CONFIRM": "تأكيد",
+    "CONFIRM_DIALOG": "لديك تغييرات غير محفوظة. هل تريد مغادرة الصفحة حقًا؟",
+    "USER_INFORMATION": {
+      "PI_USERNAME_LABEL": "اسم مستخدم Pi",
+      "NAME_LABEL": "الاسم",
+      "PHONE_NUMBER_LABEL": "رقم الهاتف",
+      "EMAIL_LABEL": "البريد الإلكتروني"
+    },
+    "PHOTO": {
+      "UPLOAD_PHOTO_LABEL": "رفع الصورة",
+      "UPLOAD_PHOTO_PLACEHOLDER": "تحميل صورة للمساعدة في جذب المشترين (PNG، JPG، JPEG، WEBP)",
+      "UPLOAD_PHOTO_REVIEW_PLACEHOLDER": "تحميل صورة لدعم تقييمك (PNG، JPG، JPEG، WEBP)",
+      "IMAGE_DROP_UPLOAD_MESSAGE": "أسقط صورتك هنا أو تصفح",
+      "SUPPORTS_FILE_MESSAGE": "يدعم: PNG، JPG، JPEG، WEBP",
+      "MISC_LABELS": {
+        "USER_PREFERENCES_LABEL": "صورة الملف الشخصي",
+        "SELLER_IMAGE_LABEL": "صورة البائع",
+        "REVIEW_FEEDBACK_IMAGE_LABEL": "صورة التقييم",
+        "EDIT_REVIEW_FEEDBACK_IMAGE_LABEL": "تحديث الصورة"
+      }
+    },
+    "REACTION_RATING": {
+      "UNSAFE": "غير آمن",
+      "TRUSTWORTHY": "موثوق",
+      "EMOTIONS": {
+        "DESPAIR": "حزين جدا",
+        "SAD": "حزين",
+        "OKAY": "جيد",
+        "HAPPY": "سعيد",
+        "DELIGHT": "سعيد جدا"
+      },
+      "VALIDATION": {
+        "SUCCESSFUL_REVIEW_SUBMISSION": "تم إرسال التقييم بنجاح",
+        "UNSUCCESSFUL_REVIEW_SUBMISSION": "فشل في إرسال التقييم",
+        "SELECT_EMOJI_EXPRESSION": "يرجى اختيار تعبير باستخدام الرموز التعبيرية"
+      }
+    },
+    "MAP_CENTER": {
+      "SEARCH_BAR_PLACEHOLDER": "ابحث عن موقع، مدينة، أو عنوان",
+      "VALIDATION": {
+        "MAP_CENTER_SUCCESS_MESSAGE": "تم حفظ موقعك بنجاح",
+        "SELL_CENTER_SANCTIONED_MESSAGE": "يبدو أن الموقع الذي اخترته يقع في منطقة محظورة. إذا تم التأكيد، قد يتم إزالة علامة البيع من الخريطة."
+      }
+    },
+    "LOADING_SCREEN_MESSAGE": "جار التحميل ...",
+    "SAVING_SCREEN_MESSAGE": "جارٍ الحفظ ...",
+    "VALIDATION": {
+      "SUBMISSION_FAILED_USER_NOT_AUTHENTICATED": "فشل الإرسال لأن المستخدم غير مصدق",
+      "UNEXPECTED_ERROR_MESSAGE": "حدث خطأ غير متوقع"
+    }
+  },
+  "ERROR": {
+    "PAGE_NOT_FOUND_HEADER": "الصفحة غير موجودة",
+    "PAGE_NOT_FOUND_MESSAGE": "عذرًا، الصفحة التي تبحث عنها غير موجودة."
+  }
+}
