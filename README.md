@@ -91,6 +91,10 @@ The Map of Pi Front End is a [Next.js](https://nextjs.org/) project bootstrapped
 - Godswill Sam
 - Rajasekhar Reddy
 
+### Quality Analysts
+- Franck Baraka
+- Jeff Maina
+
 ## <a name='contributions'></a>Contributions
 
 <div>
